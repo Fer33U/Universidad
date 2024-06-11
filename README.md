@@ -7,4 +7,4 @@ Este proyecto esde pruebas
 #Primer cambio desde github
 
 
-1. Cambio desde el repositorio de github
+1. Segundo cambio desde el repositorio local JFGP
